@@ -20,15 +20,15 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 ### Responsável: Maria
 
 - Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
-- Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
-- Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
+- Descrição das tarefas que foram realizadas, ponderando as maiores dificuldades.
+- Descrição das tarefas que não foram realizadas, ponderando as maiores dificuldades.
 - Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
 
 ### Responsável: João
 
-- Descrição das tarefas planejadas e atribuídas ao João no início da etapa.
-- Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
-- Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
+- Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
+- Descrição das tarefas que foram realizadas, ponderando as maiores dificuldades.
+- Descrição das tarefas que não foram realizadas, ponderando as maiores dificuldades.
 - Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
 
 
