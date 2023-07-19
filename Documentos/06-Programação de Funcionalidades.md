@@ -13,33 +13,30 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 ## Etapa 1
 
-Descrição dos objetivos gerais da etapa.
-Screenshot do quadro Kanban, obtido a partir da aba "Projects" do GitHub.
-Screenshot do quadro de Contribuidores do time, obtido a partir da aba "Insights" do GitHub.
+- Descrição dos objetivos gerais da etapa.
+- Screenshot do quadro Kanban, obtido a partir da aba "Projects" do GitHub.
+- Screenshot do quadro de Contribuidores do time, obtido a partir da aba "Insights" do GitHub.
 
 ### Responsável: Maria
 
-Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
-Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
-Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
-Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
+- Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
+- Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
+- Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
+- Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
 
 ### Responsável: João
 
-Descrição das tarefas planejadas e atribuídas ao João no início da etapa.
-Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
-Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
-Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
+- Descrição das tarefas planejadas e atribuídas ao João no início da etapa.
+- Descrição das tarefas que foram realizadas, podenrando as maiores dificuldades.
+- Descrição das tarefas que não foram realizadas, peonderando as maiores dificuldades.
+- Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
 
 
 ### Responsável: (*** Cada membro do time deve complementar esse documento produzindo o seu conteúdo ***)
 
-...
+- ...
 
 ## Etapa N (*** Incrementar para cada etapa concluída ***)
 
-Descrição dos objetivos gerais da etapa.
-...
-
-
-
+- Descrição dos objetivos gerais da etapa.
+- ...
