@@ -6,9 +6,8 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado como repositório remoto.
+As soluções de controle de versão adotadas no projeto foram o
+[Git](https://git-scm.com/), como ferramenta local, e o [Github](https://github.com), como ferramenta remota.
 
 As ferramentas de gerência de configuração possuem diversos recursos úteis relacionados a projeto de software. Entre eles, a possibilidade de trabalhar com branchs (“ramificações”). Uma ramificação no Git é como se fosse um ponteiro para um commit. O nome da ramificação padrão no Git é main (“principal”). Ao começar a fazer commits, você recebe uma ramificação que aponta para o último commit que realizado. Toda vez que se confirma um commit, o ponteiro da branch principal avança automaticamente.
 
