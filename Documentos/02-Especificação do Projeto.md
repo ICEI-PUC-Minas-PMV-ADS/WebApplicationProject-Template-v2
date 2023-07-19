@@ -1,6 +1,6 @@
 # Especificações do Projeto
 
-Definição do problema é a ideia de solução a partir da perspectiva do usuário. É composta pela definição dos perfis e histórias de usuários, requisitos funcionais e não funcionais do projeto.
+Definição do problema é a ideia de solução a partir da perspectiva do usuário. Essa especificação é composta pela definição dos perfis e histórias de usuários, requisitos funcionais e não funcionais do projeto.
 
 ## Perfis de Usuários
 
