@@ -8,29 +8,22 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+foi utilizado como repositório remoto.
 
-O projeto segue a seguinte convenção para o nome de branches:
+As ferramentas de gerência de configuração possuem diversos recursos úteis relacionados a projeto de software. Entre eles, a possibilidade de trabalhar com branchs (“ramificações”). Uma ramificação no Git é como se fosse um ponteiro para um commit. O nome da ramificação padrão no Git é main (“principal”). Ao começar a fazer commits, você recebe uma ramificação que aponta para o último commit que realizado. Toda vez que se confirma um commit, o ponteiro da branch principal avança automaticamente.
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+Para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas. Por exemplo:
+- Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedora responsável: Maria Aparecida.
+- Pasta src\clientes: clientes.html, clientes.css, clientes.js - Desenvolvedor responsável: João Augusto.
+- Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedora responsável: Fátima dos Santos.
+- Pasta src\vendas: vendas.html, vendas.css, vendas.js - Desenvolvedor responsável: José Carlos.
 
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
+> - [Project no GitHub](https://drive.google.com/file/d/14H3ALz_D2sZhfGccIF6PHN4QuICBC4Xf/view?usp=sharing)
+> - [Trabalhando em Equipe de Forma Simplificada](https://drive.google.com/file/d/14H3ALz_D2sZhfGccIF6PHN4QuICBC4Xf/view?usp=sharing)
 > - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
+> - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
 
 
 ## Gerenciamento de Projeto
