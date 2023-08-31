@@ -1,15 +1,13 @@
 
 # Projeto de Interface
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais, os requisitos não funcionais e as histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a> sejam contemplados nas telas propostas.]
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Wireframes são protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
-
-Adicione aqui os Wireframes da sua aplicação. 
+[Adicione aqui os Wireframes da sua aplicação.] 
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
@@ -21,9 +19,9 @@ Adicione aqui os Wireframes da sua aplicação.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+
+[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
