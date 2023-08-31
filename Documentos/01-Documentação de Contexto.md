@@ -28,9 +28,8 @@ Aqui é necessário descrever os atores envolvidos no problema, destacando os di
 
 Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.
 
-Este link pode ajudar a equipe a conhecer um pouco mais sobre o público-alvo: [Público-alvo.](https://blog.hotmart.com/pt-br/publico-alvo/)
+Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
 
-> **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
