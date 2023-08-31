@@ -11,7 +11,7 @@ As soluções de controle de versão adotadas no projeto foram o
 
 As ferramentas de gerência de configuração possuem diversos recursos úteis relacionados a projeto de software. Entre eles, a possibilidade de trabalhar com branchs (“ramificações”). Uma ramificação no Git é como se fosse um ponteiro para um commit. O nome da ramificação padrão no Git é main (“principal”). Ao começar a fazer commits, você recebe uma ramificação que aponta para o último commit realizado. Toda vez que se confirma um commit, o ponteiro da branch principal avança automaticamente.
 
-Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas. Por exemplo:
+Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organização das pastas e artefatos de implementação no sistema de arquivos, sugerimos que o projeto seja estruturado de modo que cada aluno trabalhe com seus arquivos nas suas respectivas pastas, identificadas por nomes das suas respectivas telas/funcionalidades. Por exemplo:
 - Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedora responsável: Maria Aparecida.
 - Pasta src\clientes: clientes.html, clientes.css, clientes.js - Desenvolvedor responsável: João Augusto.
 - Pasta src\funcionarios: funcionarios.html, funcionarios.css, funcionarios.js  - Desenvolvedora responsável: Fátima dos Santos.
