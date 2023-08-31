@@ -20,7 +20,7 @@ Aqui a equipe deve descrever a importância ou a motivação para trabalhar com 
 
 Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa]([https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/]
+Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
