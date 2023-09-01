@@ -1,11 +1,15 @@
 
 # Projeto de Interface
 
+Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+
 [Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais, os requisitos não funcionais e as histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a> sejam contemplados nas telas propostas.]
 
 ## Wireframes
 
 Wireframes são protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+
+Como o foco do projeto do Eixo 1 não está relacionado a aspectos de design do site, recomendamos fortemente que a equipe trabalhe com projeto de interface de baixa fidelidade, objetivando a validação de conceitos e de funcionalidades do site.
 
 [Adicione aqui os Wireframes da sua aplicação.] 
  
