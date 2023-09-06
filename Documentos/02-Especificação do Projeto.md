@@ -1,15 +1,13 @@
 # Especificação do Projeto
 
-Definição do problema é a ideia de solução a partir da perspectiva do usuário. Essa especificação é composta pela definição dos perfis e histórias de usuários, requisitos funcionais e não funcionais do projeto.
-
 ## Perfis de Usuários
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 |             PERFIL X           ||
 |------------------|--------------|
-|Descrição:        |              |
-|Necessidades:     |              | 
+|Descrição:        | ...                              |
+|Necessidades:     | ...                              | 
 
 ## Histórias de Usuários
 
