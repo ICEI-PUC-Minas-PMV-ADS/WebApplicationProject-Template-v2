@@ -1,7 +1,5 @@
 # Apresentação do Projeto
 
-<a href="../docs/10-Apresentação do Projeto.md"> Orientações sobre os artefatos de apresentação do projeto</a>
-
 ## Conjunto de Slides
 
 A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
