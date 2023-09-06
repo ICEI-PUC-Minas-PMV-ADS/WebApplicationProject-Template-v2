@@ -30,6 +30,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
   <td>
    <ol>
+    <tr>
 
 
 
