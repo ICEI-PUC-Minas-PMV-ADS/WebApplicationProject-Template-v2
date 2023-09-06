@@ -12,7 +12,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Coloque informações abaixo sobre a divisão de papéis entre os membros da equipe.]
+[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
 - Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
 - Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
@@ -25,7 +25,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-[Inserir informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
+[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
