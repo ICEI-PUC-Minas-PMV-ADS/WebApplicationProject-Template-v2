@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos codificados. 
+Implementação da aplicação descritas por meio dos requisitos codificados. 
 
 > **Links Úteis**:
 >
