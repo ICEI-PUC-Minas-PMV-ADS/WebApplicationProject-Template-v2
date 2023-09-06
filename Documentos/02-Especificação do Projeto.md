@@ -1,4 +1,4 @@
-# Especificações do Projeto
+# Especificação do Projeto
 
 Definição do problema é a ideia de solução a partir da perspectiva do usuário. Essa especificação é composta pela definição dos perfis e histórias de usuários, requisitos funcionais e não funcionais do projeto.
 
@@ -6,10 +6,10 @@ Definição do problema é a ideia de solução a partir da perspectiva do usuá
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
-|             PERFIL CLIENTE ||
+|             PERFIL X ||
 |------------------|---------|
-|Descrição:        | Pessoa que precisa de um computador adequado para realizar suas tarefas de trabalho, como editar vídeos e criar apresentações. |
-|Necessidades:     | Orientação para escolher um hardware que atenda às suas necessidades de edição de vídeos, além de informações sobre compatibilidade de componentes para garantir que seu novo equipamento seja compatível com o software que pretende utilizar.|
+|Descrição:        |  |
+|Necessidades:     |  |
 
 ## Histórias de Usuários
 
