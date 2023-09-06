@@ -36,7 +36,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 [Inserir as orientações de acesso à funcionalidade]
 
 
-### Responsável
+#### Responsável
 
 [Inserir nome do responsável pelo desenvolvimento da funcionalidade]
 
