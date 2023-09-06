@@ -8,8 +8,8 @@ Definição do problema é a ideia de solução a partir da perspectiva do usuá
 
 |             PERFIL X ||
 |------------------|---------|
-|Descrição:        |  |
-|Necessidades:     |  |
+|Descrição:        |              |
+|Necessidades:     |              | 
 
 ## Histórias de Usuários
 
