@@ -1,8 +1,6 @@
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
-
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+Implementação do sistema descritas por meio dos requisitos codificados. 
 
 > **Links Úteis**:
 >
@@ -11,32 +9,35 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
-## Etapa 1
+[Utilizar a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-- Descrição dos objetivos gerais da etapa.
-- Screenshot do quadro Kanban, obtido a partir da aba "Projects" do GitHub.
-- Screenshot do quadro de Contribuidores do time, obtido a partir da aba "Insights" do GitHub.
+### Título da funcionalidade
 
-### Responsável: Maria
-
-- Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
-- Descrição das tarefas que foram realizadas, ponderando as maiores dificuldades.
-- Descrição das tarefas que não foram realizadas, ponderando as maiores dificuldades.
-- Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
-
-### Responsável: João
-
-- Descrição das tarefas planejadas e atribuídas a Maria no início da etapa.
-- Descrição das tarefas que foram realizadas, ponderando as maiores dificuldades.
-- Descrição das tarefas que não foram realizadas, ponderando as maiores dificuldades.
-- Evidências relacionadas as tarefas realizadas ou dificuldades ponderadas, tais como screenshots de trechos de código-fonte, de programa em execução, de mensagem de erro, entre outras.
+[Inserir imagem]
 
 
-### Responsável: (*** Cada membro do time deve complementar esse documento produzindo o seu conteúdo ***)
+#### Requisito atendido
 
-- ...
+[RF-X: inserir descrição]
 
-## Etapa N (*** Incrementar para cada etapa concluída ***)
 
-- Descrição dos objetivos gerais da etapa.
-- ...
+#### Artefatos da funcionalidade
+
+[Inserir os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, inserir aqui]
+
+
+#### Instruções de acesso
+
+[Inserir as orientações de acesso à funcionalidade]
+
+
+### Responsável
+
+[Inserir nome do responsável pelo desenvolvimento da funcionalidade]
+
+
