@@ -33,19 +33,21 @@ Definição do problema é a ideia de solução a partir da perspectiva do usuá
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 |  ...                    | ...   | 
 |  ...  |  ...                    | ...   |
+
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
-|ID      | Descrição do Requisito  |Prioridade |
+|ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 |  ...                    | ...   | 
 | ...    |  ...                    | ...   | 
+
 **Prioridade: Alta / Média / Baixa. 
 
