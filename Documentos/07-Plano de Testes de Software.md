@@ -11,9 +11,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 | Passos     |  Indicar passos para a execução do teste |
 | Critérios de êxito    | Indicar os critérios de êxito  |
 | Responsável pela elaborar do caso de Teste     |  Nome do integrante da equipe |
-
-
-
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
