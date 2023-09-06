@@ -4,7 +4,7 @@
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
-|             PERFIL X           ||
+|             PERFIL X           |
 |------------------|--------------|
 |Descrição:        | ...                              |
 |Necessidades:     | ...                              | 
