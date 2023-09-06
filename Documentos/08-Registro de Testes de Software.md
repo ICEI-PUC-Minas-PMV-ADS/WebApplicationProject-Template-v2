@@ -1,10 +1,12 @@
 # Registro de Testes de Software
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+Relatório com as evidências dos testes de software realizados na aplicação pela equipe, baseado no plano de testes pré-definido.
 
-## Avaliação
+Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. [Utilizar a estrutura abaixo para cada caso de teste executado]
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+|Caso de Teste    | CT-X - Título Caso de Teste |
+|:---|:---|
+| Resultados obtidos | Descrever resultados do teste  |
+| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
