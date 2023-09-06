@@ -32,7 +32,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 <li><a href="Documentos/06-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="Documentos/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="Documentos/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="Documentos/09-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="Documentos/10-Referências.md"> Referências</a></li>
 </ol>
 
