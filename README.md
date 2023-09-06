@@ -45,4 +45,4 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Armazenamento da Apresentação
 
-* <a href="Apresentação/README.md">Apresentação da solução</a>
+* <a href="Apresentação/README.md">Apresentação do Projeto</a>
