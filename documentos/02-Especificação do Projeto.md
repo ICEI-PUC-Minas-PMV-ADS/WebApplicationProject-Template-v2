@@ -4,10 +4,22 @@
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
-|             PERFIL X           ||
-|------------------|--------------|
-|Descrição:        | ...                              |
-|Necessidades:     | ...                              | 
+<table>
+<tbody>
+<tr>
+<th colspan="2">Perfil Nome </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">...</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>...</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Histórias de Usuários
 
