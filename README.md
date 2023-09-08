@@ -39,10 +39,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 * Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
-# Armazenamento do Código-Fonte
+# Código-Fonte
 
 * <a href="codigo-fonte/README.md">Código Fonte</a>
 
-# Armazenamento da Apresentação
+# Apresentação
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
