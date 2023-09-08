@@ -6,7 +6,7 @@
 
 <table>
 <tbody>
-<tr align=left>
+<tr align=center>
 <th colspan="2">Perfil Nome </th>
 </tr>
 <tr>
