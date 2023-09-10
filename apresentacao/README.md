@@ -2,7 +2,7 @@
 
 ## Conjunto de Slides
 
-[Apresentação - Vida de estudante.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/files/8977541/Apresentacao.-.Vida.de.estudante.pdf)
+[Apresentação - Vida de estudante.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/WebApplicationProject-Template-v2/blob/main/documentos/ApresentacaoVidaDeEstudante.pdf)
 
 ## Vídeo de apresentação
 
