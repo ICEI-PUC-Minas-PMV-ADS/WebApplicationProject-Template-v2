@@ -1,18 +1,17 @@
-# Apresentação
+# Apresentação do Projeto
 
-## Hospedagem
+## Conjunto de Slides
 
-[Especificar o servidor de hospedagem e a url de hospedagem.]
-
-## Conjunto de Slides (Estrutura)
-
-O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro do tempo determinado. Importante ressaltar a importância da descrição clara de todo o andamento do projeto, insumos gerados e requisitos atendidos.
-[Inserir pdf de apresentação.]
-
-> **Links Úteis**:
-> - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
-> - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
-> - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+[Apresentação - Vida de estudante.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/files/8977541/Apresentacao.-.Vida.de.estudante.pdf)
 
 ## Vídeo de apresentação
-[Inserir vídeo de apresentação.]
+
+https://user-images.githubusercontent.com/100447878/175320438-9451601c-eebe-41c6-8105-dbfe97008af5.mp4
+
+## Vídeo de apresentação das funcionalidades
+
+https://user-images.githubusercontent.com/100447878/175574137-6a15dff8-275c-4715-b33a-cd947f5bc64e.mp4
+
+
+## Hospedagem
+Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
