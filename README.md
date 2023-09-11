@@ -1,23 +1,25 @@
-# VIDA DE ESTUDANTE
+# TÍTULO DO PROJETO
 
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+`CURSO`
 
-`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
+`DISCIPLINA`
 
-`1º SEMESTRE DE 2022`
+`SEMESTRE`
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
+Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Anna Luiza de Angelis Souza Freitas
-* Daiane Campos Procópio
-* Fernanda Augusta de Barcelos Coura
-* Rúbia Karina Prado Costa
+* Nome completo do aluno 1
+* Nome completo do aluno 2
+* Nome completo do aluno 3
+* Nome completo do aluno 4
+* Nome completo do aluno 5
+* Nome completo do aluno 6
 
-## Orientadora
+## Orientador
 
-* Joyce Christina de Paiva Carvalho
+* Nome completo do professor
 
 # Documentação
 
@@ -30,12 +32,12 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 <li><a href="documentos/06-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
 <li><a href="documentos/07-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
 <li><a href="documentos/08-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="documentos/10-Referências.md"> Referências Bibliográficas</a></li>
+<li><a href="documentos/09-Referências.md"> Referências Bibliográficas</a></li>
 </ol>
 
 # Hospedagem
 
-A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html">aqui</a> para acessá-lo. 
+* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
 # Código-Fonte
 
