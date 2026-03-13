@@ -38,7 +38,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 > **Links Úteis**:
 > - [Planejamento de projetos para desenvolvedores](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
+> - [Sobre projects](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 
 
