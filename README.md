@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
 
 ## Integrantes
 
