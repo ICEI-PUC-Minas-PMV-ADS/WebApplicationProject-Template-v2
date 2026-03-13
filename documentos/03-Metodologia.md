@@ -25,11 +25,16 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
+[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe deve fazer uso do GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir depois das informações uma imagem do Kanban do projeto. Será importante apresentar o status do Kanban em todas as reuniões com o Professor regente.]
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+- Backlog: Esta coluna representa o Product Backlog e recebe as Tarefas do Projeto a serem trabalhadas. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+- To Do: Esta coluna representa o Sprint Backlog, ou seja, a lista das Tarefas da Etapa. As tarefas do To Do devem ser definidas e distribuídas para os integrantes da equipe no início de cada Etapa.
+- In Progress: Esta coluna representa as Tarefas da Etapa em desenvolvimento, ou seja, quando uma tarefa do To Do tiver sido iniciada por um integrante da equipe, ele deve movê-la para esta coluna.
+- Ready to Test: Esta coluna representa as Tarefas da Etapa prontas para Testes. Assim que uma tarefa é finalizada, ela deve ser movida para esta coluna pelo integrante da equipe que a finalizou.
+- Testing: Esta coluna representa as Tarefas da Etapa em Revisão e/ou Teste. O integrante definido pela equipe revisa/testa a Tarefa do colega e, logo em seguida, apresenta na descrição da tarefa os resultados obtidos. O integrante que desenvolveu a Tarefa e que apresenta revisões a serem realizadas deve aprimorar a sua Tarefa a partir das observações recebidas antes de movê-la para Done.
+- Done: Esta coluna representa as Tarefas concluídas, considerando que as Tarefas passaram pelos testes, foram aprimoradas pelos feedbacks obtidos nas revisões/testes e estão prontas para ser entregues.
+
+
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
